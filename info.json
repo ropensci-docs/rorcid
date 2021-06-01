@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0f56ec751994db8f8f83cc5a9073dc465588ef96",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-06-01 23:25:54",
+    "files": 3,
+    "merge": false,
+    "message": "remove a few fixtures and vcr usage in orcid_id tests - where not needed\n"
+  },
+  "remote": "https://github.com/ropensci/rorcid",
+  "pkg": "rorcid"
+}

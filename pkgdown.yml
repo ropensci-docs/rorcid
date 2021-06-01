@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  authentication: authentication.html
+  rorcid: rorcid.html
+last_built: 2021-07-20T07:27Z
+urls:
+  reference: https://docs.ropensci.org/rorcid/reference
+  article: https://docs.ropensci.org/rorcid/articles
+
